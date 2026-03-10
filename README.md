@@ -3,8 +3,11 @@ DaYu-GCP: All-day Global Cloud Physical Properties Dataset with 0.07° Resoluti
 
 ## Citation
 The paper was published in Earth System Science Data.
+
 DOI: https://doi.org/10.5194/essd-18-1813-2026
+
 GB/T 7714 Format Citation: 
+
 Zhao L, Zhang F, Zhao Z, et al. All-day global cloud physical properties products with 0.07° resolution retrieved from geostationary satellite imagers covering the period from 2000 to 2022 [J]. Earth System Science Data, 2026, 18(3): 1813-1832.
 
 ## Short summary
