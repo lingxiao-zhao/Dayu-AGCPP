@@ -37,7 +37,8 @@ The file names and directory structure are organized in the following format:
  
 
 ## change list:
-
 V1: init commit.
+
 V2: rename DaYu-GCP.
+
 V3: add citation information.
